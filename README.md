@@ -61,8 +61,7 @@ Because consecutive video frames are highly correlated, this accuracy may overes
 
 ### 1. Clone the repository
 
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-    cd YOUR_REPOSITORY
+    git clone https://github.com/keeganjarrett7/AI-Hand-Gesture-Recognition.
 
 ### 2. Create a virtual environment
 
